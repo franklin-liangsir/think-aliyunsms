@@ -1,0 +1,28 @@
+{
+    "name": "franklin-liangsir/think-aliyunsms",
+    "description": "基于thinkphp5的阿里云短信（单条/批量）发送",
+    "keywords": [
+        "阿里云短信",
+        "thinkphp短信",
+        "aliyun",
+        "sms",
+        "thinkphp短信发送"
+    ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "FranklinLiangsir\\ThinkAliyunsms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "franklin-liangsir",
+            "email": "516874329@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
